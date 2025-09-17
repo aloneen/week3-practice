@@ -1,3 +1,3 @@
-module github.com/dias/week3-practice/mod1
+module github.com/aloneen/week3-practice/tree/main/mod1
 
 go 1.25.0
