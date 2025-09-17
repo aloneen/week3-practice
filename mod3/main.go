@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/aloneen/week3-practice/tree/main/mod1/greeting"
-	"github.com/aloneen/week3-practice/tree/main/mod2/mathutil"
+
+	"github.com/aloneen/week3-practice/mod1/greeting"
+	"github.com/aloneen/week3-practice/mod2/mathutil"
 )
 
 func main() {
